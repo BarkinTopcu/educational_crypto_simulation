@@ -4,7 +4,7 @@ This project demonstrates how to create a **basic forecasting and auto-buying si
 
 ## 🚨 Disclaimer
 
-> **⚠️ This software is strictly for educational use only.**
+> **⚠️ This project is strictly for educational use only.**
 >
 > - It is not intended for live or real-money trading.
 > - It does not provide financial or investment advice.
