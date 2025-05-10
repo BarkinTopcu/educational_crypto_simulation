@@ -13,6 +13,18 @@ This project demonstrates how to create a **basic forecasting and auto-buying si
 > Use this bot only in test environments or simulations. **Do not connect to real wallets or trading accounts.**
 
 ---
+---
+
+### ⚠️ Yasal Uyarı (Türkçe)
+
+❗️Bu proje **yatırım tavsiyesi değildir**.  
+📌 Bu proje sadece **eğitim ve araştırma** amaçlı geliştirilmiştir.
+
+- Herhangi bir finansal ya da yatırım tavsiyesi sunmaz.  
+- Bu kodun kullanımından doğabilecek finansal kayıplardan geliştirici sorumlu değildir.  
+- Bu bot sadece test ortamlarında veya simülasyonlarda kullanılmalıdır. Gerçek cüzdanlar veya ticaret hesapları ile **bağlantı kurmayınız**.
+
+---
 
 ## 📌 Project Overview
 
@@ -49,8 +61,10 @@ This project is intended to help students or data enthusiasts:
 - Develop ethical and cautious approaches to algorithmic trading
 
 ---
-##🙋 FAQ
+## 🙋 FAQ
+
 Q: Is this financial advice?
+
 A: Absolutely not. It is purely a coding and learning exercise. It is for educational purpose.
 
 ## 📥 Getting Started
