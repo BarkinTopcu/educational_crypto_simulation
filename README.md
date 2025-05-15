@@ -18,7 +18,7 @@ This project demonstrates how to create a **basic forecasting and auto-buying si
 ### ⚠️ Yasal Uyarı (Türkçe)
 
 ❗️Bu proje **yatırım tavsiyesi değildir**.  
-📌 Bu proje sadece **eğitim ve araştırma** amaçlı geliştirilmiştir.
+📌 Bu proje sadece **eğitim** amaçlı geliştirilmiştir.
 
 - Herhangi bir finansal ya da yatırım tavsiyesi sunmaz.  
 - Bu kodun kullanımından doğabilecek finansal kayıplardan geliştirici sorumlu değildir.  
