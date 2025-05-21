@@ -11,6 +11,12 @@ This project demonstrates how to create a **basic forecasting and auto-buying si
 > - The developer of this repository is not responsible for any financial loss resulting from the use or misuse of this code.
 >
 > Use this bot only in test environments or simulations. **Do not connect to real wallets or trading accounts.**
+> 
+> This application does not provide investment advice. All data, models, functions and forecasts are for educational and analytical purposes only. Do not use this information to make investment decisions. All investment decisions are the responsibility of the user.
+> 
+> **WARNING:** This application and all included analyses, data, and forecasts are strictly for educational and analytical purposes only. **Do not use for investment purposes under any circumstances.** The owner of the code assumes no responsibility for any financial, investment, or trading decisions made based on the information provided. **All responsibility lies with the user.**
+
+> **ATTENTION:** In Turkey, investment transactions must only be carried out through intermediary institutions and financial organizations that are authorized and licensed by the Capital Markets Board of Turkey (CMB). This application or code should not be used for investment transactions and must not be considered for investment purposes.
 
 ---
 ---
@@ -23,6 +29,11 @@ This project demonstrates how to create a **basic forecasting and auto-buying si
 - Herhangi bir finansal ya da yatırım tavsiyesi sunmaz.  
 - Bu kodun kullanımından doğabilecek finansal kayıplardan geliştirici sorumlu değildir.  
 - Bu bot sadece test ortamlarında veya simülasyonlarda kullanılmalıdır. Gerçek cüzdanlar veya ticaret hesapları ile **bağlantı kurmayınız**.
+> Bu uygulama yatırım tavsiyesi içermez. Sunulan veriler, modeller, fonksiyonlar ve tahminler yalnızca eğitim ve analiz amaçlıdır. Yatırım kararlarınızı bu verilerle almanız önerilmez. Her türlü yatırım kararı kullanıcıya aittir.
+> 
+> **UYARI:** Bu uygulama ve içerdiği tüm analizler, veriler ve tahminler yalnızca eğitim ve analiz amaçlıdır. **Kesinlikle yatırım amaçlı kullanmayınız.** Uygulamada yer alan bilgilerle yapılacak herhangi bir yatırım, alım-satım veya finansal işlemden doğacak her türlü sorumluluk kullanıcıya aittir. **Kodun sahibi hiçbir şekilde sorumluluk kabul etmez.**
+
+> **DİKKAT:** Türkiye’de yatırım işlemleri yalnızca Sermaye Piyasası Kurulu (SPK) tarafından yetkilendirilmiş ve lisanslanmış aracı kurumlar ve finansal kuruluşlar aracılığıyla yapılmalıdır. Bu uygulama veya kod, herhangi bir yatırım işlemi için kullanılmamalıdır ve yatırım amacıyla değerlendirilmemelidir.
 
 ---
 
