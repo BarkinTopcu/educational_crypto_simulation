@@ -1,4 +1,4 @@
-# 📊 Educational Crypto Forecasting & Auto-Buying Bot
+# 📊 Educational Crypto Forecasting & Auto-Buying Simulation Bot
 
 This project demonstrates how to create a **basic forecasting and auto-buying simulation bot** using historical cryptocurrency data from Binance. It is specifically built for **educational and research purposes** only. The bot simulates how price forecasts can be used to make automatic simulated buy decisions for selected cryptocurrencies.
 
