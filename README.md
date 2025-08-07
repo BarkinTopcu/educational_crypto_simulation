@@ -1,6 +1,6 @@
-# 📊 Educational Crypto Forecasting & Auto-Buying Simulation Bot
+# 📊 Educational Crypto Forecasting & Auto-Buying Simulation
 
-This project demonstrates how to create a **basic forecasting and auto-buying simulation bot** using historical cryptocurrency data from Binance. It is specifically built for **educational and research purposes** only. The bot simulates how price forecasts can be used to make automatic simulated buy decisions for selected cryptocurrencies.
+This project demonstrates how to create a **basic forecasting and auto-buying simulation** using historical cryptocurrency data from Binance. It is specifically built for **educational and research purposes** only. The code simulates how price forecasts can be used to make automatic simulated buy decisions for selected cryptocurrencies.
 
 ## 🚨 Disclaimer
 
@@ -10,7 +10,7 @@ This project demonstrates how to create a **basic forecasting and auto-buying si
 > - It does not provide financial or investment advice.
 > - The developer of this repository is not responsible for any financial loss resulting from the use or misuse of this code.
 >
-> Use this bot only in test environments or simulations. **Do not connect to real wallets or trading accounts.**
+> Use this only in test environments or simulations. **Do not connect to real wallets or trading accounts.**
 > 
 > This application does not provide investment advice. All data, models, functions and forecasts are for educational and analytical purposes only. Do not use this information to make investment decisions. All investment decisions are the responsibility of the user.
 > 
@@ -28,7 +28,7 @@ This project demonstrates how to create a **basic forecasting and auto-buying si
 
 - Herhangi bir finansal ya da yatırım tavsiyesi sunmaz.  
 - Bu kodun kullanımından doğabilecek finansal kayıplardan geliştirici sorumlu değildir.  
-- Bu bot sadece test ortamlarında veya simülasyonlarda kullanılmalıdır. Gerçek cüzdanlar veya ticaret hesapları ile **bağlantı kurmayınız**.
+- Bu kodlar sadece test ortamlarında veya simülasyonlarda kullanılmalıdır. Gerçek cüzdanlar veya ticaret hesapları ile **bağlantı kurmayınız**.
 > Bu uygulama yatırım tavsiyesi içermez. Sunulan veriler, modeller, fonksiyonlar ve tahminler yalnızca eğitim ve analiz amaçlıdır. Yatırım kararlarınızı bu verilerle almanız önerilmez. Her türlü yatırım kararı kullanıcıya aittir.
 > 
 > **UYARI:** Bu uygulama ve içerdiği tüm analizler, veriler ve tahminler yalnızca eğitim ve analiz amaçlıdır. **Kesinlikle yatırım amaçlı kullanmayınız.** Uygulamada yer alan bilgilerle yapılacak herhangi bir yatırım, alım-satım veya finansal işlemden doğacak her türlü sorumluluk kullanıcıya aittir. **Kodun sahibi hiçbir şekilde sorumluluk kabul etmez.**
@@ -39,7 +39,7 @@ This project demonstrates how to create a **basic forecasting and auto-buying si
 
 ## 📌 Project Overview
 
-This educational bot fetches candlestick (OHLC) data from the Binance public API and applies forecasting models to predict future price trends. Based on the prediction output and a simple rule-based logic, it simulates a "buy" decision.
+This educational codes fetches candlestick (OHLC) data from the Binance public API and applies forecasting models to predict future price trends. Based on the prediction output and a simple rule-based logic, it simulates a "buy" decision.
 
 ### Supported Coins:
 - Bitcoin (BTC/USDT)
@@ -80,9 +80,6 @@ A: Absolutely not. It is purely a coding and learning exercise. It is for educat
 
 ## 📥 Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/educational_crypto_bot.git
-cd educational_crypto_bot
+
 
 
